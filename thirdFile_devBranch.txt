@@ -1,4 +1,4 @@
 DEV BRANCH 
 TEST 3rd FILE
-dev branch 3rd file modified new COnflict
+ New Conflict dev branch 3rd file modified
 
