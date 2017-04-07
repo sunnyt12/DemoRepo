@@ -1,4 +1,4 @@
 DEV BRANCH 
 TEST 3rd FILE
- New Conflict dev branch 3rd file modified
+ CHANGE IN MASTER...  New Conflict dev branch 3rd file modified
 
